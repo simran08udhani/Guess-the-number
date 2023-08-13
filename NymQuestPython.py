@@ -7,7 +7,7 @@ print("Should your approximation deviate beyond 10 units from my secret number, 
 print("On the other hand, if your approximation is within the narrow band of 10 units from my enigmatic number, I shall describe your condition as 'WARM.'")
 print("In the event that your current approximation exceeds the proximity of your prior estimation, I shall assert that you are growing 'COLDER.'")
 print("Conversely, should your current approximation inch closer to the mystery, I shall assert that you are warming up, as it were, or 'WARMER.'")
-print('Without further ado, let the games commence!\n\n')
+print('Without further ado, let the game commence!\n\n')
 
 guessList=[0]
 
