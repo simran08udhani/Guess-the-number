@@ -44,3 +44,7 @@ WARMER!
 ...
 
 Congratulations! You guessed it correctly in X number of guesses.
+```
+## License
+
+NumQuest - The Number Guessing Game is licensed under the [MIT License](LICENSE).
